@@ -46,3 +46,7 @@ terraform {
     key                   = "terraform.tfstate"
   }
 }
+<<<<<<< HEAD
+=======
+    
+>>>>>>> a15e848gi te716849a98e31a23300f7355931cf3793
