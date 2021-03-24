@@ -37,3 +37,8 @@ variable "replicationtype" {
     error_message = "Valid values for replication type are: (LRS, GRS, RA-GRS)."
   }
 }
+
+variable "resourcegroupname" {
+  type = string
+
+}

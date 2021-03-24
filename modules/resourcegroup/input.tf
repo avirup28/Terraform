@@ -6,3 +6,8 @@ variable "location" {
 variable "app_name" {
     type = string  
 }
+
+variable "resourcegroupname" {
+    type = string
+  
+}
